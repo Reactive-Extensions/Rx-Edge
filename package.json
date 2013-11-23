@@ -1,0 +1,25 @@
+{
+  "name": "rx-edge",
+  "title": "Reactive Extensions + Edge.js",
+  "description": "Reactive Extensions with Edge.js integration",
+  "version": "0.0.1",
+  "homepage": "",
+  "author": {
+    "name": "Matthew Podwysocki"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Reactive-Extensions/IxJS.git"
+  },
+  "licenses": [
+    {
+      "type": "Apache License, Version 2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+    }
+  ], 
+  "dependencies": {
+    "edge": "0.7.13",
+    "rx": "*"
+  },
+  "main": "index.js" 
+}

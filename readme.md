@@ -1,12 +1,10 @@
 # Reactive Extensions Integration with Edge.js
 
-This project integrates [Edge.js](https://github.com/tjanczuk/edge) with the Reactive Extensions for both .NET [(Rx.NET)](https://github.com/Reactive-Extensions/Rx.NET and JavaScript [(RxJS)](https://github.com/Reactive-Extensions/RxJS).  This is a quick proof of concept to integrate the two to have a back and forth conversation between .NET and JavaScript.
+This project integrates [Edge.js](https://github.com/tjanczuk/edge) with the Reactive Extensions for both .NET [(Rx.NET)](https://github.com/Reactive-Extensions/Rx.NET) and JavaScript [(RxJS)](https://github.com/Reactive-Extensions/RxJS).  This is a quick proof of concept to integrate the two to have a back and forth conversation between .NET and JavaScript.
 
 ## License ##
 
 Copyright (c) Microsoft Open Technologies, Inc.  All rights reserved.
-Microsoft Open Technologies would like to thank its contributors, a list
-of whom are at http://rx.codeplex.com/wikipage?title=Contributors.
 
 Licensed under the Apache License, Version 2.0 (the "License"); you
 may not use this file except in compliance with the License. You may
